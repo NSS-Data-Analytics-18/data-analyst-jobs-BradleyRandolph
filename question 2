@@ -1,0 +1,11 @@
+"title","skill","company","review_count","star_rating","days_since_posting","location","company_size","domain"
+"Data Analyst","Tableau","Ace Technologies",16,4.099999905,1,"FL",NULL,"Internet and Software"
+"Junior Data Analyst","SQL","ThirdLove",47,4,12,"CA","Less than 10,000","Consumer Goods and Services"
+"Data Analyst","Time Management| SQL","Optimove",NULL,NULL,2,"NY",NULL,NULL
+"Data Analyst","SQL","Commonwealth of Massachusetts",353,3.900000095,7,"MA",NULL,"Government"
+"Data Analyst","Tableau","Ace Technologies",16,4.099999905,2,"FL",NULL,"Internet and Software"
+"Production Data Analyst","SQL","Wunderman",197,3.900000095,5,"TX",NULL,NULL
+"Data Analyst","Tableau","Ace Technologies",16,4.099999905,4,"FL",NULL,"Internet and Software"
+"Research Data Analyst 2","Microsoft Powerpoint| R| Microsoft Office","UC DAVIS HEALTH SYSTEM",196,4.099999905,1,"CA",NULL,"Education and Schools"
+"Loyalty Data Analyst","Visual Basic| Marketing| SAS| SQL| Microsoft Office","Safeway Corp.",190,3.5,5,"CA",NULL,"Retail"
+"XTO Land Data Analyst","Microsoft Office| Microsoft Access","ExxonMobil",2234,4,5,"TX","10,000+","Energy and Utilities"
